@@ -1,0 +1,8 @@
+langchain_ollama
+requests
+beautifulsoup4
+langchain
+langchain_community
+dotenv
+langchain_chroma
+sqlite3
